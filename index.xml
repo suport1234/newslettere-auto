@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Newslettere automate</title>
+    <link>https://NUME.github.io/newslettere-auto/</link>
+    <description>Flux de newslettere generate automat</description>
+    <language>ro-ro</language>
+    <item>
+      <title>Newsletter 1</title>
+      <link>https://NUME.github.io/newslettere-auto/newsletter_01.html</link>
+      <guid>https://NUME.github.io/newslettere-auto/newsletter_01.html</guid>
+      <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newsletter 2</title>
+      <link>https://NUME.github.io/newslettere-auto/newsletter_02.html</link>
+      <guid>https://NUME.github.io/newslettere-auto/newsletter_02.html</guid>
+      <pubDate>Thu, 07 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newsletter 3</title>
+      <link>https://NUME.github.io/newslettere-auto/newsletter_03.html</link>
+      <guid>https://NUME.github.io/newslettere-auto/newsletter_03.html</guid>
+      <pubDate>Fri, 08 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
+    <!-- poți continua în același format pentru toate fișierele tale .html -->
+  </channel>
+</rss>
