@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Newsletter</title>
+    <link>https://suport1234.github.io/newslettere-auto/</link>
+    <description>This is a test newsletter feed</description>
+
+    <item>
+      <title>First Article</title>
+      <link>https://suport1234.github.io/newslettere-auto/first-article.html</link>
+      <description>This is the first article description.</description>
+      <pubDate>Thu, 18 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
